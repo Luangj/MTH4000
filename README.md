@@ -1,2 +1,2 @@
 # MTH4000
-luan gjolena
+this is my personal read me file for my MTH4000 work
